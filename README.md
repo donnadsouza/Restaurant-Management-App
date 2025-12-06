@@ -1,7 +1,6 @@
 # Restaurant Management App
 
-A simple desktop-based Restaurant Management System built using Java Swing, JDBC, MySQL, and developed in NetBeans IDE.
-The application focuses on managing restaurant menu items and demonstrates core programming concepts, including object-oriented design, loops, GUI development, and event-driven programming.
+A simple desktop-based Restaurant Management System built using Java Swing, JDBC, MySQL, and developed in NetBeans IDE. The application focuses on managing restaurant menu items and demonstrates core programming concepts, including object-oriented design, loops, GUI development, and event-driven programming.
 
 ## Features
 - GUI-based interface using Java Swing
