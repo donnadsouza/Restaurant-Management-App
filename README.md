@@ -11,15 +11,11 @@ The application focuses on managing restaurant menu items and demonstrates core 
 - Persistent data storage and retrieval
 - Input validation and basic error handling
 
-## Technologies & Concepts Used
-- Java (JDK)
-- Java Swing (GUI)
-- MySQL (Database)
-- JDBC (Database connectivity)
-- OOP principles (classes & objects)
-- Loops, conditional logic, and event listeners
-- Input/output handling
-- Search and update operations for menu data
+## Technology Stack
+- Java
+- Java Swing
+- MySQL
+- JDBC
 
 ## Project Workflow
 - Designed GUI with Swing controls in NetBeans
