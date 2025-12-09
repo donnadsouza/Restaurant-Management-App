@@ -125,7 +125,7 @@ public class DisplayItems extends javax.swing.JFrame {
         try {
             Class.forName("java.sql.DriverManager"); //loading driver class
             //connecting to database
-            Connection con = (Connection) DriverManager.getConnection("jdbc:mysql://localhost:3306/Project", "root", "donna");
+            Connection con = (Connection) DriverManager.getConnection("jdbc:mysql://localhost:3306/Project", "admin", "password");
             //creating statement object to execute SQL statements to database
             Statement stmt = (Statement) con.createStatement();
             //SQL statement to be executed
